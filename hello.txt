@@ -1,1 +1,1 @@
-hello modified
+Привет из ветки feature!
